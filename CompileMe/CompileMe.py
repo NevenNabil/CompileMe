@@ -53,10 +53,10 @@ def main():
 
     # Labels
     Label(root, text="CompileMe", font=("Arial", 25), bg=backgroundColor, fg=mainLabelColor).place(x=300, y=20)
-    Label(root, text="Lexical and Syntax Analyzer(PYTHON)", font=("Arial", 10), bg=backgroundColor,
+    Label(root, text="Lexical and Syntax Analyzer (Python)", font=("Arial", 10), bg=backgroundColor,
           fg=labelColor).place(x=470, y=36)
     Label(root, text="The translated program was saved in the file \"graph.txt\". \nYou can view the content of the "
-                     "file at www.webgraphviz.com", font=("Arial", 10), bg=backgroundColor, fg=labelColor).place(x=200,
+                     "file at www.webgraphviz.com", font=("Arial", 10), bg=backgroundColor, fg=labelColor).place(x=206,
                                                                                                                  y=700)
     Label(root, text="SOURCE CODE", bg=backgroundColor, fg=labelColor).place(x=20, y=130)
     Label(root, text="LEXICAL ANALYSIS", bg=backgroundColor, fg=labelColor).place(x=20, y=375)
