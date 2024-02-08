@@ -56,3 +56,9 @@ Parsing involves the use of context-free grammars, which define the syntactic ru
 # Conclusion:
  
 In summary, lexical and syntax analyzers are integral components of the compilation process, each playing a distinct role in transforming human-readable code into machine-executable instructions. The lexical analyzer focuses on breaking down the code into tokens, while the syntax analyzer ensures that these tokens follow the grammatical rules of the programming language. Understanding the functions and differences between these analyzers is essential for anyone delving into the world of compiler construction and programming language design. 
+
+# landing page
+https://nevennabil.github.io/CompileMe-Landing-Page/
+
+# presentation
+https://www.canva.com/design/DAF603nKVGc/EzBwU0EtkdORaLHDYRvSow/view?utm_content=DAF603nKVGc&utm_campaign=designshare&utm_medium=link&utm_source=editor
